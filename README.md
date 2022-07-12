@@ -13,6 +13,8 @@ CISC 1001 was an introductory class designed to get people to start programming.
 
 On the website you can find my notes, syllabi, homeworks etc.
 
+Research projects: https://www.researchgate.net/scientific-contributions/Farhan-Bukhari-14275372
+
 <!---
 FB-projects/FB-projects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
